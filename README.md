@@ -3,8 +3,7 @@
 
 ## Student Information
 
-**Name:** Bilal Mohammed  
-**Course:** Advanced Big Data and Data Mining
+
 
 ---
 
