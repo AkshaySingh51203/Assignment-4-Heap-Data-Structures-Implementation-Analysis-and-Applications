@@ -126,8 +126,4 @@ This project demonstrates the efficiency and practicality of heap data structure
 
 ---
 
-## Author
 
-**Bilal Mohammed**
-
-**Course:** Advanced Big Data and Data Mining
